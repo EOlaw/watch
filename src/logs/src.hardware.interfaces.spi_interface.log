@@ -1,0 +1,161 @@
+2025-01-10 17:35:18,328 - src.hardware.interfaces.spi_interface - INFO - logging_utils.py:74 - Initializing SPI interface on bus 0, CS 0
+2025-01-10 17:35:18,328 - src.hardware.interfaces.spi_interface - INFO - logging_utils.py:74 - Initializing SPI interface on bus 0, CS 0
+2025-01-10 17:35:18,328 - src.hardware.interfaces.spi_interface - INFO - logging_utils.py:74 - Initializing SPI interface on bus 0, CS 0
+2025-01-10 17:35:18,328 - src.hardware.interfaces.spi_interface - INFO - logging_utils.py:74 - Initializing SPI interface on bus 0, CS 0
+2025-01-10 17:35:18,328 - src.hardware.interfaces.spi_interface - INFO - logging_utils.py:74 - Initializing SPI interface on bus 0, CS 0
+2025-01-10 17:35:18,328 - src.hardware.interfaces.spi_interface - INFO - logging_utils.py:74 - Initializing SPI interface on bus 0, CS 0
+2025-01-10 17:35:18,328 - src.hardware.interfaces.spi_interface - INFO - logging_utils.py:74 - Initializing SPI interface on bus 0, CS 0
+2025-01-10 17:35:18,329 - src.hardware.interfaces.spi_interface - INFO - logging_utils.py:74 - SPI interface initialized successfully
+2025-01-10 17:35:18,329 - src.hardware.interfaces.spi_interface - INFO - logging_utils.py:74 - SPI interface initialized successfully
+2025-01-10 17:35:18,329 - src.hardware.interfaces.spi_interface - INFO - logging_utils.py:74 - SPI interface initialized successfully
+2025-01-10 17:35:18,329 - src.hardware.interfaces.spi_interface - INFO - logging_utils.py:74 - SPI interface initialized successfully
+2025-01-10 17:35:18,329 - src.hardware.interfaces.spi_interface - INFO - logging_utils.py:74 - SPI interface initialized successfully
+2025-01-10 17:35:18,329 - src.hardware.interfaces.spi_interface - INFO - logging_utils.py:74 - SPI interface initialized successfully
+2025-01-10 17:35:18,329 - src.hardware.interfaces.spi_interface - INFO - logging_utils.py:74 - SPI interface initialized successfully
+2025-01-10 17:35:18,329 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x00
+2025-01-10 17:35:18,329 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x00
+2025-01-10 17:35:18,329 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x00
+2025-01-10 17:35:18,329 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x00
+2025-01-10 17:35:18,329 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x00
+2025-01-10 17:35:18,329 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x00
+2025-01-10 17:35:18,329 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x00
+2025-01-10 17:43:49,946 - src.hardware.interfaces.spi_interface - INFO - logging_utils.py:74 - Initializing SPI interface on bus 0, CS 0
+2025-01-10 17:43:49,946 - src.hardware.interfaces.spi_interface - INFO - logging_utils.py:74 - Initializing SPI interface on bus 0, CS 0
+2025-01-10 17:43:49,946 - src.hardware.interfaces.spi_interface - INFO - logging_utils.py:74 - Initializing SPI interface on bus 0, CS 0
+2025-01-10 17:43:49,946 - src.hardware.interfaces.spi_interface - INFO - logging_utils.py:74 - Initializing SPI interface on bus 0, CS 0
+2025-01-10 17:43:49,946 - src.hardware.interfaces.spi_interface - INFO - logging_utils.py:74 - Initializing SPI interface on bus 0, CS 0
+2025-01-10 17:43:49,946 - src.hardware.interfaces.spi_interface - INFO - logging_utils.py:74 - Initializing SPI interface on bus 0, CS 0
+2025-01-10 17:43:49,946 - src.hardware.interfaces.spi_interface - INFO - logging_utils.py:74 - Initializing SPI interface on bus 0, CS 0
+2025-01-10 17:43:49,946 - src.hardware.interfaces.spi_interface - INFO - logging_utils.py:74 - SPI interface initialized successfully
+2025-01-10 17:43:49,946 - src.hardware.interfaces.spi_interface - INFO - logging_utils.py:74 - SPI interface initialized successfully
+2025-01-10 17:43:49,946 - src.hardware.interfaces.spi_interface - INFO - logging_utils.py:74 - SPI interface initialized successfully
+2025-01-10 17:43:49,946 - src.hardware.interfaces.spi_interface - INFO - logging_utils.py:74 - SPI interface initialized successfully
+2025-01-10 17:43:49,946 - src.hardware.interfaces.spi_interface - INFO - logging_utils.py:74 - SPI interface initialized successfully
+2025-01-10 17:43:49,946 - src.hardware.interfaces.spi_interface - INFO - logging_utils.py:74 - SPI interface initialized successfully
+2025-01-10 17:43:49,946 - src.hardware.interfaces.spi_interface - INFO - logging_utils.py:74 - SPI interface initialized successfully
+2025-01-10 17:43:49,947 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x00
+2025-01-10 17:43:49,947 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x00
+2025-01-10 17:43:49,947 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x00
+2025-01-10 17:43:49,947 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x00
+2025-01-10 17:43:49,947 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x00
+2025-01-10 17:43:49,947 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x00
+2025-01-10 17:43:49,947 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x00
+2025-01-10 17:43:49,949 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Write: Register 0x20, Value 0x00
+2025-01-10 17:43:49,949 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Write: Register 0x20, Value 0x00
+2025-01-10 17:43:49,949 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Write: Register 0x20, Value 0x00
+2025-01-10 17:43:49,949 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Write: Register 0x20, Value 0x00
+2025-01-10 17:43:49,949 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Write: Register 0x20, Value 0x00
+2025-01-10 17:43:49,949 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Write: Register 0x20, Value 0x00
+2025-01-10 17:43:49,949 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Write: Register 0x20, Value 0x00
+2025-01-10 17:43:49,950 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Write: Register 0x26, Value 0xFF
+2025-01-10 17:43:49,950 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Write: Register 0x26, Value 0xFF
+2025-01-10 17:43:49,950 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Write: Register 0x26, Value 0xFF
+2025-01-10 17:43:49,950 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Write: Register 0x26, Value 0xFF
+2025-01-10 17:43:49,950 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Write: Register 0x26, Value 0xFF
+2025-01-10 17:43:49,950 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Write: Register 0x26, Value 0xFF
+2025-01-10 17:43:49,950 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Write: Register 0x26, Value 0xFF
+2025-01-10 17:43:49,951 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x21
+2025-01-10 17:43:49,951 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x21
+2025-01-10 17:43:49,951 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x21
+2025-01-10 17:43:49,951 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x21
+2025-01-10 17:43:49,951 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x21
+2025-01-10 17:43:49,951 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x21
+2025-01-10 17:43:49,951 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x21
+2025-01-10 17:43:49,952 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x22
+2025-01-10 17:43:49,952 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x22
+2025-01-10 17:43:49,952 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x22
+2025-01-10 17:43:49,952 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x22
+2025-01-10 17:43:49,952 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x22
+2025-01-10 17:43:49,952 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x22
+2025-01-10 17:43:49,952 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x22
+2025-01-10 17:43:49,954 - src.hardware.interfaces.spi_interface - INFO - logging_utils.py:74 - Initializing SPI interface on bus 0, CS 0
+2025-01-10 17:43:49,954 - src.hardware.interfaces.spi_interface - INFO - logging_utils.py:74 - Initializing SPI interface on bus 0, CS 0
+2025-01-10 17:43:49,954 - src.hardware.interfaces.spi_interface - INFO - logging_utils.py:74 - Initializing SPI interface on bus 0, CS 0
+2025-01-10 17:43:49,954 - src.hardware.interfaces.spi_interface - INFO - logging_utils.py:74 - Initializing SPI interface on bus 0, CS 0
+2025-01-10 17:43:49,954 - src.hardware.interfaces.spi_interface - INFO - logging_utils.py:74 - Initializing SPI interface on bus 0, CS 0
+2025-01-10 17:43:49,954 - src.hardware.interfaces.spi_interface - INFO - logging_utils.py:74 - Initializing SPI interface on bus 0, CS 0
+2025-01-10 17:43:49,954 - src.hardware.interfaces.spi_interface - INFO - logging_utils.py:74 - Initializing SPI interface on bus 0, CS 0
+2025-01-10 17:43:49,954 - src.hardware.interfaces.spi_interface - INFO - logging_utils.py:74 - SPI interface initialized successfully
+2025-01-10 17:43:49,954 - src.hardware.interfaces.spi_interface - INFO - logging_utils.py:74 - SPI interface initialized successfully
+2025-01-10 17:43:49,954 - src.hardware.interfaces.spi_interface - INFO - logging_utils.py:74 - SPI interface initialized successfully
+2025-01-10 17:43:49,954 - src.hardware.interfaces.spi_interface - INFO - logging_utils.py:74 - SPI interface initialized successfully
+2025-01-10 17:43:49,954 - src.hardware.interfaces.spi_interface - INFO - logging_utils.py:74 - SPI interface initialized successfully
+2025-01-10 17:43:49,954 - src.hardware.interfaces.spi_interface - INFO - logging_utils.py:74 - SPI interface initialized successfully
+2025-01-10 17:43:49,954 - src.hardware.interfaces.spi_interface - INFO - logging_utils.py:74 - SPI interface initialized successfully
+2025-01-10 17:43:49,955 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x00
+2025-01-10 17:43:49,955 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x00
+2025-01-10 17:43:49,955 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x00
+2025-01-10 17:43:49,955 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x00
+2025-01-10 17:43:49,955 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x00
+2025-01-10 17:43:49,955 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x00
+2025-01-10 17:43:49,955 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x00
+2025-01-10 17:43:49,955 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x21
+2025-01-10 17:43:49,955 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x21
+2025-01-10 17:43:49,955 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x21
+2025-01-10 17:43:49,955 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x21
+2025-01-10 17:43:49,955 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x21
+2025-01-10 17:43:49,955 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x21
+2025-01-10 17:43:49,955 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x21
+2025-01-10 17:43:49,956 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x23
+2025-01-10 17:43:49,956 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x23
+2025-01-10 17:43:49,956 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x23
+2025-01-10 17:43:49,956 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x23
+2025-01-10 17:43:49,956 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x23
+2025-01-10 17:43:49,956 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x23
+2025-01-10 17:43:49,956 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x23
+2025-01-10 17:43:49,956 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Write: Register 0x20, Value 0x00
+2025-01-10 17:43:49,956 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Write: Register 0x20, Value 0x00
+2025-01-10 17:43:49,956 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Write: Register 0x20, Value 0x00
+2025-01-10 17:43:49,956 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Write: Register 0x20, Value 0x00
+2025-01-10 17:43:49,956 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Write: Register 0x20, Value 0x00
+2025-01-10 17:43:49,956 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Write: Register 0x20, Value 0x00
+2025-01-10 17:43:49,956 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Write: Register 0x20, Value 0x00
+2025-01-10 17:43:49,957 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x22
+2025-01-10 17:43:49,957 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x22
+2025-01-10 17:43:49,957 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x22
+2025-01-10 17:43:49,957 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x22
+2025-01-10 17:43:49,957 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x22
+2025-01-10 17:43:49,957 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x22
+2025-01-10 17:43:49,957 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x22
+2025-01-10 17:43:49,957 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Write: Register 0x26, Value 0xFF
+2025-01-10 17:43:49,957 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Write: Register 0x26, Value 0xFF
+2025-01-10 17:43:49,957 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Write: Register 0x26, Value 0xFF
+2025-01-10 17:43:49,957 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Write: Register 0x26, Value 0xFF
+2025-01-10 17:43:49,957 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Write: Register 0x26, Value 0xFF
+2025-01-10 17:43:49,957 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Write: Register 0x26, Value 0xFF
+2025-01-10 17:43:49,957 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Write: Register 0x26, Value 0xFF
+2025-01-10 17:43:49,958 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x23
+2025-01-10 17:43:49,958 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x23
+2025-01-10 17:43:49,958 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x23
+2025-01-10 17:43:49,958 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x23
+2025-01-10 17:43:49,958 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x23
+2025-01-10 17:43:49,958 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x23
+2025-01-10 17:43:49,958 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x23
+2025-01-10 17:43:49,958 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x21
+2025-01-10 17:43:49,958 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x21
+2025-01-10 17:43:49,958 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x21
+2025-01-10 17:43:49,958 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x21
+2025-01-10 17:43:49,958 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x21
+2025-01-10 17:43:49,958 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x21
+2025-01-10 17:43:49,958 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x21
+2025-01-10 17:43:49,959 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x25
+2025-01-10 17:43:49,959 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x25
+2025-01-10 17:43:49,959 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x25
+2025-01-10 17:43:49,959 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x25
+2025-01-10 17:43:49,959 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x25
+2025-01-10 17:43:49,959 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x25
+2025-01-10 17:43:49,959 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x25
+2025-01-10 17:43:49,966 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x23
+2025-01-10 17:43:49,966 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x23
+2025-01-10 17:43:49,966 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x23
+2025-01-10 17:43:49,966 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x23
+2025-01-10 17:43:49,966 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x23
+2025-01-10 17:43:49,966 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x23
+2025-01-10 17:43:49,966 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x23
+2025-01-10 17:43:49,967 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x21
+2025-01-10 17:43:49,967 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x21
+2025-01-10 17:43:49,967 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x21
+2025-01-10 17:43:49,967 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x21
+2025-01-10 17:43:49,967 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x21
+2025-01-10 17:43:49,967 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x21
+2025-01-10 17:43:49,967 - src.hardware.interfaces.spi_interface - DEBUG - logging_utils.py:70 - SPI Read: Register 0x21

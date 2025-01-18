@@ -1,0 +1,15 @@
+2025-01-10 17:35:18,331 - src.hardware.drivers.power_controller_driver - ERROR - logging_utils.py:89 - Power controller initialization failed | Context: {"error_type": "PowerManagementError", "error_message": "Power controller self-test failed"}
+2025-01-10 17:35:18,331 - src.hardware.drivers.power_controller_driver - ERROR - logging_utils.py:89 - Power controller initialization failed | Context: {"error_type": "PowerManagementError", "error_message": "Power controller self-test failed"}
+2025-01-10 17:35:18,331 - src.hardware.drivers.power_controller_driver - ERROR - logging_utils.py:89 - Power controller initialization failed | Context: {"error_type": "PowerManagementError", "error_message": "Power controller self-test failed"}
+2025-01-10 17:43:49,948 - src.hardware.drivers.power_controller_driver - WARNING - logging_utils.py:78 - Unexpected device ID: 170
+2025-01-10 17:43:49,948 - src.hardware.drivers.power_controller_driver - WARNING - logging_utils.py:78 - Unexpected device ID: 170
+2025-01-10 17:43:49,948 - src.hardware.drivers.power_controller_driver - WARNING - logging_utils.py:78 - Unexpected device ID: 170
+2025-01-10 17:43:49,951 - src.hardware.drivers.power_controller_driver - INFO - logging_utils.py:74 - Power controller initialized successfully
+2025-01-10 17:43:49,951 - src.hardware.drivers.power_controller_driver - INFO - logging_utils.py:74 - Power controller initialized successfully
+2025-01-10 17:43:49,951 - src.hardware.drivers.power_controller_driver - INFO - logging_utils.py:74 - Power controller initialized successfully
+2025-01-10 17:43:49,956 - src.hardware.drivers.power_controller_driver - WARNING - logging_utils.py:78 - Unexpected device ID: 170
+2025-01-10 17:43:49,956 - src.hardware.drivers.power_controller_driver - WARNING - logging_utils.py:78 - Unexpected device ID: 170
+2025-01-10 17:43:49,956 - src.hardware.drivers.power_controller_driver - WARNING - logging_utils.py:78 - Unexpected device ID: 170
+2025-01-10 17:43:49,958 - src.hardware.drivers.power_controller_driver - INFO - logging_utils.py:74 - Power controller initialized successfully
+2025-01-10 17:43:49,958 - src.hardware.drivers.power_controller_driver - INFO - logging_utils.py:74 - Power controller initialized successfully
+2025-01-10 17:43:49,958 - src.hardware.drivers.power_controller_driver - INFO - logging_utils.py:74 - Power controller initialized successfully
