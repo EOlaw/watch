@@ -1,3 +1,0 @@
-2025-01-10 17:35:18,331 - src.hardware.drivers.power_controller_driver - ERROR - logging_utils.py:89 - Power controller initialization failed | Context: {"error_type": "PowerManagementError", "error_message": "Power controller self-test failed"}
-2025-01-10 17:35:18,331 - src.hardware.drivers.power_controller_driver - ERROR - logging_utils.py:89 - Power controller initialization failed | Context: {"error_type": "PowerManagementError", "error_message": "Power controller self-test failed"}
-2025-01-10 17:35:18,331 - src.hardware.drivers.power_controller_driver - ERROR - logging_utils.py:89 - Power controller initialization failed | Context: {"error_type": "PowerManagementError", "error_message": "Power controller self-test failed"}

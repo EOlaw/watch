@@ -17,7 +17,7 @@ holographic_watch/
 │
 ├── src/                      # Source code directory
 │   ├── core/                # Core system components
-│   │   ├── __init__.py
+│   │   ├── __init__.py 
 │   │   ├── holographic_projector/
 │   │   │   ├── __init__.py
 │   │   │   ├── laser_controller.py
